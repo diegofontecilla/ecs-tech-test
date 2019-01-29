@@ -6,7 +6,7 @@ On a machine with Docker installed: https://www.docker.com/get-started<br><br>
 
 *OR*, download and run the original test repo manually: https://github.com/ecsdigital/qa-tech-test<br><br>
 
-To run the solution on your machine, download the files https://github.com/diegofontecilla/qa-tech-test-docker<br><br>
+To run the solution on your machine, download the files https://github.com/diegofontecilla/ecs-tech-test<br><br>
 
 From terminal run:<br>
 ```
